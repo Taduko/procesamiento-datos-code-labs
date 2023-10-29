@@ -1,0 +1,29 @@
+Fecha: 01/05/2023
+Hora: 09:15
+Producto: Camiseta
+Cantidad: 2
+Precio: 25.0
+
+Fecha: 02/05/2023
+Hora: 10:30
+Producto: Pantalón
+Cantidad: 5
+Precio: 35.0
+
+Fecha: 03/05/2023
+Hora: 12:45
+Producto: Zapatos
+Cantidad: 
+Precio: 50.0
+
+Fecha: 04/05/2023
+Hora: 14:00
+Producto: Gorra
+Cantidad: 3
+Precio: 1800.0
+
+Fecha: 05/05/2023
+Hora: 16:30
+Producto: Calcetines
+Cantidad: 4
+Precio: 10.0
